@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bea87ab-ec99-4bbb-b561-76699687e2d8" name="Default Changelist" comment="ggg" />
+    <list default="true" id="5bea87ab-ec99-4bbb-b561-76699687e2d8" name="Default Changelist" comment="ggg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601713392425</updated>
       <workItem from="1601713393449" duration="723000" />
-      <workItem from="1601779398628" duration="719000" />
+      <workItem from="1601779398628" duration="1698000" />
     </task>
     <task id="LOCAL-00001" summary="ggg">
       <created>1601779745273</created>
@@ -77,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601780083736</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ggg">
+      <created>1601780124208</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601780124208</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +113,9 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="313" y="180" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1601779804860" />
+    <state x="108" y="121" key="new project wizard" timestamp="1601780224915">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="108" y="121" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1601780224915" />
   </component>
 </project>
