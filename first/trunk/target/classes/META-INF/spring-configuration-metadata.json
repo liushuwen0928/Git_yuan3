@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "vo.Login",
+      "name": "login",
+      "type": "vo.Login"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "vo.Login",
+      "name": "login.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "vo.Login",
+      "name": "login.classid",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "vo.Login",
+      "name": "login.content",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "vo.Login",
+      "name": "login.sex",
+      "type": "java.lang.String"
+    }
+  ]
+}
